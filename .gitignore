@@ -1,0 +1,12 @@
+# Secrets
+.env
+*.env
+credentials*
+secrets*
+
+# Fichiers temporaires
+*.tmp
+*.log
+
+# Windows
+Thumbs.db

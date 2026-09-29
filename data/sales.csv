@@ -1,0 +1,16 @@
+order_id,order_date,customer,product,category,quantity,unit_price,region 
+1001,2026-09-01,Entreprise Alpha,Laptop Pro,Informatique,2,899.99,Nord
+1002,2026-09-01,Tech Solutions,Ecran 27 pouces,Informatique,5,249.90,Ile-de-France
+1003,2026-09-02,Digital Factory,Clavier Pro,Accessoires,10,79.90,Nord
+1004,2026-09-03,Data Consulting,Souris Wireless,Accessoires,8,39.90,Sud
+1005,2026-09-03,Entreprise Alpha,Ecran 27 pouces,Informatique,3,249.90,Nord
+1006,2026-09-04,Cloud Systems,Laptop Pro,Informatique,1,899.99,Est
+1007,2026-09-05,Tech Solutions,Clavier Pro,Accessoires,4,79.90,Ile-de-France
+1008,2026-09-06,Digital Factory,Laptop Pro,Informatique,2,899.99,Ouest
+1009,2026-09-07,Data Consulting,Ecran 27 pouces,Informatique,6,249.90,Sud
+1010,2026-09-08,Cloud Systems,Souris Wireless,Accessoires,12,39.90,Est
+1011,2026-09-09,Entreprise Alpha,Clavier Pro,Accessoires,7,79.90,Nord
+1012,2026-09-10,Tech Solutions,Laptop Pro,Informatique,3,899.99,Ile-de-France
+1013,2026-09-11,Digital Factory,Souris Wireless,Accessoires,15,39.90,Ouest
+1014,2026-09-12,Data Consulting,Laptop Pro,Informatique,2,899.99,Sud
+1015,2026-09-13,Cloud Systems,Ecran 27 pouces,Informatique,4,249.90,Est
